@@ -1,0 +1,26 @@
+body{
+    background: url("office-supplies.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "ABeeZee", sans-serif;
+}
+header div{
+    
+     
+    color: black;                
+    font-size: 15px;              
+    top: 265px;    
+    left: 50px;         
+    position: absolute;
+    padding: 56px 30px;
+    
+}
+
+img{
+    height: 54px;
+    top: 5px;
+    left: 10px;
+    margin: 10px 10px;
+}
+
+
